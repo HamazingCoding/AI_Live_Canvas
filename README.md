@@ -255,7 +255,11 @@ To run this project, you need to have Python installed on your system. Follow th
     }
     ```
 
-3. **Save and Preview Images**
+3. **Record and Capture Images**
+
+    These are the images of the canvas on which the user can draw, these images will be input for AI image generation. Use an appropriate tool for live recording such as OBS studio or refer to this link [https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes] 
+
+4. **Save and Preview Images**
 
     The generated images will be saved in the specified directory, and you can preview them using the provided scripts or your preferred image viewer.
 
@@ -268,6 +272,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [CLIP](https://github.com/openai/CLIP)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
+- [ImageCapture](https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes)
 
 ## Contact
 
